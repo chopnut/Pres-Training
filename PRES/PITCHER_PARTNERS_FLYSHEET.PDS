@@ -37,7 +37,7 @@ cHexDelimiter=\0x01
 0=D#<N=Calibri><S=ITALIC><P=10><C=ANSI>
 1=D#<N=Calibri><P=10><C=ANSI>
 2=D#<N=Arial><P=12><C=ANSI>
-3=D#<N=FSBCA><P=24.15><C=ANSI>
+3=D#<N=FSBCA><P=22><C=ANSI>
 4=D#<N=Calibri><P=7><C=ANSI>
 5=D#<N=Calibri><P=12><C=ANSI>
 
@@ -55,8 +55,8 @@ cHexDelimiter=\0x01
 version=1.000000
 CodePage=1252
 LanguageID=0C09
-headerSize=00000875
-CRC=3F0158D5
+headerSize=00000872
+CRC=81132B44
 ;###############################################################################
 ;
 ;	PITCHER PARTNERS FLYSHEET TEST JOB
@@ -112,7 +112,7 @@ INTERNAL
 	
 	ALPHA FONT_POSTAGE_PAID 	L99="D#<N=Arial><P=12><C=ANSI>"
 
-	ALPHA DPIDFONT 				L99="D#<N=FSBCA><P=24.15><C=ANSI>"
+	ALPHA DPIDFONT 				L99="D#<N=FSBCA><P=22><C=ANSI>"
 	ALPHA FONT_MID_CODEINFO 	L99="D#<N=Calibri><P=7><C=ANSI>"
 	ALPHA FONT_MID_NORMAL 		L99="D#<N=Calibri><P=12><C=ANSI>"
 
