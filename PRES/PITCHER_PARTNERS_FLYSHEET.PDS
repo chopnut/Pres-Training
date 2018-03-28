@@ -34,12 +34,7 @@ cHexDelimiter=\0x01
 0=GRAPHICS.LST
 
 [FONTS]
-0=D#<N=Calibri><S=ITALIC><P=10><C=ANSI>
-1=D#<N=Calibri><P=10><C=ANSI>
-2=D#<N=Arial><P=12><C=ANSI>
-3=D#<N=FSBCA><P=22><C=ANSI>
-4=D#<N=Calibri><P=7><C=ANSI>
-5=D#<N=Calibri><P=12><C=ANSI>
+0=S:\Smartcomm\IT\Ernani\PRES_TRAINING\PresTraining1\PRES\FONTS.LST
 
 [DataSourceIDs]
 
@@ -55,8 +50,8 @@ cHexDelimiter=\0x01
 version=1.000000
 CodePage=1252
 LanguageID=0C09
-headerSize=00000872
-CRC=81132B44
+headerSize=00000750
+CRC=E447C166
 ;###############################################################################
 ;
 ;	PITCHER PARTNERS FLYSHEET TEST JOB
